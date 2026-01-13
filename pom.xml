@@ -23,6 +23,10 @@
 	</developers>
 	<modules>
 		<module>common</module>
+		<module>notification-api</module>
+		<module>notification-handlers</module>
+		<module>notification-validator</module>
+		<module>notification-tracker</module>
 	</modules>
 	<scm>
 		<connection/>
